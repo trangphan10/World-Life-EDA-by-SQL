@@ -2,7 +2,7 @@ Word life Expectancy Analysis by EDA in SQL
 
 1. Create database, table worldlifeexpectancy following the script sql file i provided.
    
-2. Connection Notebook to MySQL database
+2. Connection Notebook on Azure Data Studio to MySQL database
 
 3. Data Cleaning
 
